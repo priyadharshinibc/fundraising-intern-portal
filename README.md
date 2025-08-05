@@ -1,45 +1,43 @@
-# 🎯 Fundraising Intern Portal
+# 🌟 Fundraising Intern Portal
 
-A beautifully designed **Flutter** application that helps fundraising interns track donation progress, manage referrals, and unlock rewards — all in a modern, animated, and pastel-themed interface.
+Welcome to the **Fundraising Intern Portal** — a modern Flutter app built to help fundraising interns easily track their donation progress, manage referrals, and unlock rewards in a fun and engaging way.
 
----
-
-## 📌 Description
-
-The **Fundraising Intern Portal** is a Flutter app that offers a seamless experience from **login to dashboard**, featuring:
-
-- ✨ **Rive animations**
-- 📊 **Real-time pie charts**
-- 🏆 **Reward tracking**
-- 🌸 **Pastel UI design**
-
-Interns can log in, view personalized dashboards, track donation progress, and unlock fun rewards.
+With smooth **Rive animations**, soft **pastel UI**, and clear **visual feedback** using pie charts, this app makes the fundraising journey not just functional — but enjoyable.
 
 ---
 
-## 🔑 Key Features
+## 🧩 What’s Inside?
 
-- 🎬 Rive-based **Animated Login**
-- 📝 Smooth **Sign-Up Form** (Full Name, Email, Password)
-- 👤 Personalized **Dashboard** with:
-  - Intern’s Name & Referral Code (e.g., `INTN-1234`)
-  - Pie Chart showing **Raised vs Target**
-  - Unlockable Rewards: 🏆 🎁 🥇 🔒
-- 🎨 Modern pastel color palette and responsive layout
-- ⚙️ Built using **Flutter**, **fl_chart**, and **rive**
+Here’s what the app currently offers:
+
+- **Animated Login Page**  
+  A sleek login screen powered by **Rive** animations for a polished experience.
+
+- **Sign-Up Flow**  
+  A clean, simple sign-up page to enter your name, email, and password.
+
+- **Dashboard**  
+  Once logged in, interns can:
+  - See a welcome message with their name
+  - Get a referral code (e.g., `INTN-1234`)
+  - Track donations raised vs target using a **pie chart**
+  - Earn **rewards** like 🏆 Trophy, 🎁 Gift, 🥇 Medal — or 🔒 stay locked until more funds are raised
+
+- **Pastel-themed UI**  
+  A soft, modern color scheme for a pleasant user experience.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### ✅ Prerequisites
-- Flutter SDK (>=3.0.0)
-- Any IDE (VS Code / Android Studio / FlutLab)
+To run this project locally:
 
-### 📦 Installation
+### Prerequisites:
+- Flutter SDK (version 3.0.0 or higher)
+- An IDE like **VS Code**, **Android Studio**, or **FlutLab**
 
-```bash
-git clone https://github.com/your-username/fundraising-intern-portal.git
-cd fundraising-intern-portal
-flutter pub get
-flutter run
+### Steps:
+
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/priyadharshini.b.c/fundraising-intern-portal.git
